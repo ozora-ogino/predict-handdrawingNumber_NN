@@ -20,6 +20,12 @@ This uses a super simple neural network model.
     ```bash
     python draw.py
     ```
+# File desctiption
+
+createModel.py : create simple NN model and save it to 'minst.model' 
+
+draw.py : main file of this program.
+
 # Screenshot
 ![](screenshot.png)
 
