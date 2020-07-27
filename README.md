@@ -44,7 +44,7 @@ Tensorflow
 
 Keras
 
-#My Info
+# My Info
 [Qiita](https://qiita.com/ozora/items/296cf27793fe50e3a6b4)
 [Instagram](https://www.instagram.com/ogino_mup/)
 
