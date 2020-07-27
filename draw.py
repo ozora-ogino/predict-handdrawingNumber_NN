@@ -117,11 +117,11 @@ def guess(li):
     pred = model.predict(li)
     t = np.argmax(pred[0])
     print(f'I guess this number is {t}')
-
-    window = tk.Tk()
-    window.withdraw()
-    messagebox.showinfo('Prediction', 'I guess this number is ' + str(t))
-    window.destory()
+    #comment out because tkinter doesn't work
+    #window = tk.Tk()
+    #window.withdraw()
+    #messagebox.showinfo('Prediction', 'I guess this number is ' + str(t))
+    #window.destory()
 
 
 def main():
